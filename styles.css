@@ -65,11 +65,11 @@ main {
 
 .free-trial p {
   padding: 0 32px;
-  font-weight: 200;
+  font-weight: 400;
 }
 
 .free-trial span {
-  font-weight: 600;
+  font-weight: 700;
 }
 
 .form-container {
